@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+
+}
+p{
+    color: navy
+    font-size: 20px;
+
+}
+h1{
+    color:darkblue;
+}
+h2{
+    color:darkgreen;
+}
+address{
+    color:darkblue
+}
+body{
+    color:darkslateblue;
+}
